@@ -15,3 +15,5 @@ public class Solution {
     }
 }
 ```
+
+![[Container-Most-Water-1.png]]
